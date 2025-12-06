@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Kalle
+
+I am a fourth-year Software Engineering student at Tampere University with hands-on experience in developing web applications.
 
 <!--
 **kallekekale/kallekekale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
