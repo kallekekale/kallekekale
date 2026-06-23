@@ -1,6 +1,11 @@
-## Hi there 👋 I'm Kalle
+## Hi, I'm Kalle 👋
 
-I am a fourth-year Software Engineering student at Tampere University with hands-on experience in developing web applications.
+I'm a Software Engineering M.Sc. student at Tampere University with a minor in Data Science, currently transitioning into data engineering. I work as a software developer at a Finnish ERP company, where I build and maintain Haulbag, an Azure-hosted ERP system built with C#/.NET, MySQL, and React.
+
+### What I'm working on
+
+Finnish Weather Pipeline: an end-to-end ELT pipeline that ingests hourly weather observations from the FMI open data API, stores them in MotherDuck, transforms them with dbt, and visualises the results in a Streamlit dashboard. Automated via GitHub Actions.
+
 
 <!--
 **kallekekale/kallekekale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
