@@ -4,9 +4,8 @@ I'm a Software Engineering M.Sc. student at Tampere University with a minor in D
 
 ### What I'm working on
 
-Finnish Weather Pipeline: an end-to-end ELT pipeline that ingests hourly weather observations from the FMI open data API, stores them in MotherDuck, transforms them with dbt, and visualises the results in a Streamlit dashboard. Automated via GitHub Actions.
-
-
+**[weather-and-watts](https://github.com/kallekekale/weather-and-watts)**: an end-to-end data pipeline tracking Finnish electricity spot prices, power generation, and weather conditions. Ingests data from ENTSO-E, Fingrid, and FMI into a Medallion architecture (bronze/silver/gold), models it with dbt, and visualises results in a Streamlit dashboard. Built on Azure (Functions, Blob Storage, PostgreSQL), orchestrated with Prefect and GitHub Actions.
+ 
 <!--
 **kallekekale/kallekekale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
